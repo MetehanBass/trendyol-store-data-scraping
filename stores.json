@@ -1,0 +1,13 @@
+{
+  "stores": [
+    {
+      "storeName": "FTMODA",
+      "storeId": "132292"
+    },
+    { "storeName": "Koray Spor", "storeId": "104929" },
+    {
+      "storeName": "Defacto",
+      "storeId": "1188"
+    }
+  ]
+}
